@@ -3,5 +3,6 @@
   "pr0lqq",
   "4ayokA0",
   "4ayokRus",
-  "Nikitosina_BARBOSINA"
+  "Nikitosina_BARBOSINA",
+  "Yaros1979"
 ]
