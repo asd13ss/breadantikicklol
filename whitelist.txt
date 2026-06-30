@@ -4,5 +4,8 @@
   "4ayokA0",
   "4ayokRus",
   "Nikitosina_BARBOSINA",
-  "Yaros1979"
+  "Yaros1979",
+  "Daniil_257719",
+  "EZZ_HCK",
+  "faak_737372"
 ]
